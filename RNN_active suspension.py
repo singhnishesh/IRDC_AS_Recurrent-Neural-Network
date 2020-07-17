@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 df_ips=[]
 df_op=1
-path="/home/armaan/Downloads/Data_Set"
+path="###add path for the Dataset folder"
 ind_df=np.zeros((4494,1))
 for i in range(0,4494):
 	ind_df[i,0]=i
