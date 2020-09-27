@@ -6,4 +6,4 @@
   
 2.Delete "**Rover_Displacement.csv**".  
   
-3.Run "**RNN_reactive.py**" or "**RNN_active.py**".
+3.Run "**RNN_RS.py**" or "**RNN_AS.py**".
