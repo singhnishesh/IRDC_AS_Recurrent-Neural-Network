@@ -17,7 +17,7 @@ for i in range(0,4494):
 ind_df=pd.DataFrame({'Index':ind_df[:,0]})
 for i in os.listdir(path):
 	if ".csv" in i:
-		if i=="Control_Link_Angles.csv":
+		if i=="CL_angles.csv":
 			df_op=pd.read_csv(os.path.join(path,i))
 		else:
 			df_ips.append(pd.read_csv(os.path.join(path,i)).drop(['Time (sec)'],axis=1).join(ind_df))
