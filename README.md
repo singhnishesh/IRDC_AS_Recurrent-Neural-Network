@@ -10,7 +10,8 @@ _2. Delete "**Rover_Displacement.csv**"._
 _3. Execute the training script "**RNN_AS.py**"._
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-**NOTE:** _The file **"AS_report.pdf" (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)** explains the training process._
-**NOTE:** _The visualization of the suspension model is uploaded here - **IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv**._
+### ~NOTE:  
+_The file **"AS_report.pdf" (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)** explains the training process._  
+_The visualization of the suspension model is uploaded here - **IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv**._
 
 
