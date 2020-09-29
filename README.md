@@ -1,8 +1,8 @@
 
-NOTE: _**RNN_AS.py** is the training script._
+~NOTE: _**RNN_AS.py** is the training script._
 
 
-## Instructions:
+### ~Instructions:
 
 _1. Execute the file "**Data preprocessing.py**". This creates a new csv file._  
   
