@@ -1,11 +1,11 @@
 
-**RNN_AS.py** is the training script.
+NOTE: _**RNN_AS.py** is the training script._
 
 
 ## Instructions:
 
-*1. Execute the file "**Data preprocessing.py**". This creates a new csv file.  
+_1. Execute the file "**Data preprocessing.py**". This creates a new csv file._  
   
-*2. Delete "**Rover_Displacement.csv**".  
+_2. Delete "**Rover_Displacement.csv**"._  
   
-*3. Execute "**RNN_AS.py**".
+_3. Execute "**RNN_AS.py**"._
