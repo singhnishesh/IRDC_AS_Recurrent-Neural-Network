@@ -1,7 +1,7 @@
-# Active-Suspension Control using Deep Recurrent Neural Networks
+# IRDC_AS_Deep Recurrent Neural Network
 
 
-## ~Instructions:
+### ~Instructions:
 
 * Execute the file_ `Data preprocessing.py`.
   
@@ -10,7 +10,7 @@
 * Execute the training script `RNN_AS.py`.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-## ~Note:  
+### ~Note:  
 
 * The file `AS_report.pdf (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)` explains the training process.  
 
