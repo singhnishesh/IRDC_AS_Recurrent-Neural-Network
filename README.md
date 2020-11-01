@@ -1,5 +1,5 @@
 # IRDC_AS_Deep Recurrent Neural Network
-Codebase for the Indian Rover Design Challenge '20
+AS codebase for the Indian Rover Design Challenge '20.
 
 ### ~Instructions:
 
