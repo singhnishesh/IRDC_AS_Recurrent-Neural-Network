@@ -3,16 +3,16 @@
 
 ### ~Instructions:
 
-_1. Execute the file `"**Data preprocessing.py**"`. This creates a new csv file._  
+_1. Execute the file_ `Data preprocessing.py`. _This creates a new csv file._  
   
-_2. Delete "**Rover_displacement.csv**"._  
+_2. Delete_`Rover_displacement.csv"`.  
   
-_3. Execute the training script "**RNN_AS.py**"._
+_3. Execute the training script_ `RNN_AS.py`.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ~Note:  
-_1. The file **"AS_report.pdf" (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)** explains the training process._  
+_1. The file_ `AS_report.pdf (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)` _explains the training process._  
 
-_2. The visualization of the suspension model is uploaded here - **IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv**._
+_2. The visualization of the suspension model is uploaded here_ - `IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv`.
 
 
