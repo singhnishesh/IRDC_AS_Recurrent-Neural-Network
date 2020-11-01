@@ -1,5 +1,5 @@
 # IRDC_AS_Deep Recurrent Neural Network
-Suspension control codebase for the `Indian Rover Design Challenge '20`.
+Predicitive Active Suspension Control using Deep Recurrent Neural Networks. 
 
 ### ~Instructions:
 
