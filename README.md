@@ -1,5 +1,4 @@
 # IRDC_AS_Deep Recurrent Neural Network
-Predicitive Active Suspension Control using Deep Recurrent Neural Networks 
 
 ### ~Instructions:
 
