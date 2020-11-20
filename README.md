@@ -2,7 +2,7 @@
 
 ### ~Instructions:
 
-* Execute the file_ `Data preprocessing.py`.
+* Execute the file `Data preprocessing.py`.
   
 * Delete `Rover_displacement.csv"`.  
   
