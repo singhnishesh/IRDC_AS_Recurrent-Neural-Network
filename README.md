@@ -5,6 +5,7 @@
 ### 1. Dependencies:
 
       $ sudo apt-get update
+      $ pip3 install pandas
       $ pip3 install torch 
       $ pip3 install torchvision
       
