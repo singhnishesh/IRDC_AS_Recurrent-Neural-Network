@@ -1,12 +1,21 @@
 # IRDC_AS_Deep Recurrent Neural Network
 
+<img src="https://user-images.githubusercontent.com/64838088/109210395-c06ae300-77d2-11eb-98e3-41e2d6fce42f.jpeg"/>
+
 ### ~Instructions:
 
-* Execute the file `Data preprocessing.py`.
+* Clone the repository into your **root** folder.
+
+      git clone https://github.com/singhnishesh/IRDC_AS_Recurrent-Neural-Network/
+* Execute the data pre-process script.       
+    
+      python3 Data pre-processing.py.
   
-* Delete `Rover_displacement.csv"`.  
+* Delete the file`Rover_displacement.csv"`.  
   
-* Execute the training script `RNN_AS.py`.
+* Execute the training script.
+
+      python3`RNN_AS.py`.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ~Note:  
