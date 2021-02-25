@@ -9,6 +9,8 @@
       $ pip3 install torch 
       $ pip3 install torchvision
       
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 2. Instructions:
 
 * Clone the repository into your **root** folder.
@@ -26,6 +28,7 @@
       $ python3`RNN_AS.py`.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 3. Note:  
 
 * The file `AS_report.pdf (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)` explains the training process.  
