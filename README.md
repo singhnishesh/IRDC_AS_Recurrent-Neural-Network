@@ -1,6 +1,6 @@
 # IRDC_AS_Deep Recurrent Neural Network
 
-<img src="https://user-images.githubusercontent.com/64838088/109210395-c06ae300-77d2-11eb-98e3-41e2d6fce42f.jpeg"/>
+<img src="https://user-images.githubusercontent.com/64838088/109211534-5eab7880-77d4-11eb-817f-dd36c64854ff.jpg"/>
 
 ### ~Instructions:
 
