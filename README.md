@@ -6,16 +6,16 @@
 
 * Clone the repository into your **root** folder.
 
-      git clone https://github.com/singhnishesh/IRDC_AS_Recurrent-Neural-Network/
+      $git clone https://github.com/singhnishesh/IRDC_AS_Recurrent-Neural-Network/
 * Execute the data pre-process script.       
     
-      python3 Data pre-processing.py.
+      $python3 Data pre-processing.py.
   
 * Delete the file`Rover_displacement.csv"`.  
   
 * Execute the training script.
 
-      python3`RNN_AS.py`.
+      $python3`RNN_AS.py`.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ~Note:  
