@@ -33,6 +33,6 @@
 
 * The file `AS_report.pdf (IRDC_AS_Recurrent-Neural-Network/AS_report.pdf)` explains the training process.  
 
-* Navigate into`IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv` to access the visualization.
+* Navigate into`IRDC_AS_Recurrent-Neural-Network/Dataset/Details/IRDC.mkv` to access the simulation.
 
 
